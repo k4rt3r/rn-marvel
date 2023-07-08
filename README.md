@@ -1,3 +1,2 @@
 # Introduction 
-
-Quick React Native sample retrieving data from marvel api
+React Native sample app which retrieves superhero data from official Marvel API REST
